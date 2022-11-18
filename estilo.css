@@ -10,6 +10,21 @@ a{/*Estilo comun para los hipervinculos*/
     color: black;
     font-family: 'Lucida Sans Unicode';
 }
+/*001*/
+h1{/*Estilo comun para los diferentes tipos de encabezados principales*/
+    text-align: justify;
+    font-family: Georgia;
+    margin: 0.75em;
+    font-size: 3em;
+}
+/*001*/
+h2{/*Estilo comun para los encabezados secundarios*/
+    text-align: justify;
+    font-family: Georgia;
+    margin: 0.75em;
+    font-size: 1.5em;
+}
+/*--------------------------------------------------*/
 /*Estilo de index.html*/
 /*100*/
 #fabada{/*Estilo de la imagen de la fabada*/
@@ -23,9 +38,40 @@ a{/*Estilo comun para los hipervinculos*/
     text-align: justify;
     margin: 2em;
 }
+/*----------------------------------------------------*/
+/*Estilo de pasos.html*/
 /*100*/
-#huIndex{/*Estilo del h1 del index*/
-    text-align: justify;
-    font-family: Georgia;
-    margin: 0.75em;
+#videoF{/*Estilo del video*/
+    width: 60em;
+    height: 40em;
+    margin: 1em;
 }
+/*010*/
+.pasosP{/*Estilo de un par de parrafos sueltos que hay en pasos.html*/
+    font-family:sans-serif;
+    text-align: justify;
+    font-size: 1em;
+    margin: 2em;
+}
+/*010*/
+.consideraciones{/*Estilo para la parte de consideraciones*/
+    font-family:sans-serif;
+    text-align: justify;
+    font-size: 0.9em;
+    margin-top: 0.75em;
+}
+/*010*/
+.preparacion{/*Estilo para como se prepara*/
+    font-family:sans-serif;
+    text-align: justify;
+    font-size: 0.9em;
+    margin-top: 0.75em;
+}
+/*010*/
+.coccion{/*Estilo de la preparacion final*/
+    font-family:sans-serif;
+    text-align: justify;
+    font-size: 0.9em;
+    margin-top: 0.75em;
+}
+/*-----------------------------------------------------------------------------*/
