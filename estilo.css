@@ -1,0 +1,31 @@
+/*Estilo comun para los html*/
+/*001*/
+body{/*Estilo basico del cuerpo de todos los html*/
+    padding: auto;
+    color: black;
+    background-color: rgb(249, 191, 227);
+}
+/*001*/
+a{/*Estilo comun para los hipervinculos*/
+    color: black;
+    font-family: 'Lucida Sans Unicode';
+}
+/*Estilo de index.html*/
+/*100*/
+#fabada{/*Estilo de la imagen de la fabada*/
+    width: 35em;
+    height: 25em;
+    margin:2em;
+}
+/*100*/
+#pIndex{/*Estilo del parrafo del index*/
+    font-family:sans-serif;
+    text-align: justify;
+    margin: 2em;
+}
+/*100*/
+#huIndex{/*Estilo del h1 del index*/
+    text-align: justify;
+    font-family: Georgia;
+    margin: 0.75em;
+}
