@@ -75,3 +75,21 @@ h2{/*Estilo comun para los encabezados secundarios*/
     margin-top: 0.75em;
 }
 /*-----------------------------------------------------------------------------*/
+/*Estilo de contacto.html*/
+/*001*/
+form{
+    font-family: Georgia;
+    text-align: justify;
+    font-size: 0.9em;
+    margin-top: 0.75em;
+    margin: 1em;
+}
+/*001*/
+button{
+    margin: 1em;
+    background-color: black;
+    color: white;
+    height: 4em;
+    width: 13em;
+
+}
