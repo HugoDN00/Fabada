@@ -77,7 +77,7 @@ h2{/*Estilo comun para los encabezados secundarios*/
 /*-----------------------------------------------------------------------------*/
 /*Estilo de contacto.html*/
 /*001*/
-form{
+form{/*Estilo del form*/
     font-family: Georgia;
     text-align: justify;
     font-size: 0.9em;
@@ -85,11 +85,25 @@ form{
     margin: 1em;
 }
 /*001*/
-button{
+button{/*Estilo del boton*/
     margin: 1em;
     background-color: black;
     color: white;
     height: 4em;
     width: 13em;
 
+}
+/*-----------------------------------------------------------------------------------------*/
+/*Estilo de ingredientes.html*/
+/*100*/
+#pIngre{/*Estilo del parrafo de ingredientes.html*/
+    font-family:sans-serif;
+    text-align: justify;
+    margin: 2em;
+}
+#uIngre{/*Estilo de la lista desordenada de ingredients.html*/
+    /*100*/
+    text-align: justify;
+    font-family: monospace;
+    margin: 1em;
 }
