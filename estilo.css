@@ -107,3 +107,15 @@ button{/*Estilo del boton*/
     font-family: monospace;
     margin: 1em;
 }
+/*-------------------------------------------------------------------------------------------------*/
+/*Estilo diversos ingredientes*/
+/*001*/
+img{/*Estilo de las imagenes de los ingredientes*/
+    margin: 1em;
+}
+/*010*/
+.pIngres{/*Estilo de los parrafos de los ingredientes*/
+    font-family:sans-serif;
+    text-align: justify;
+    margin: 2em;
+}
